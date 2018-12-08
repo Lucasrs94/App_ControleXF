@@ -13,6 +13,7 @@ namespace App_ControleXF1
 
             MainPage = new App_ControleXF1.Menu.Menu();
         }
+         
 
         protected override void OnStart()
         {
